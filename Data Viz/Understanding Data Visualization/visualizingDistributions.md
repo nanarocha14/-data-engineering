@@ -2,7 +2,7 @@
 
 ## Introduction
 
-There's three ways of getting insights:
+There are three ways of getting insights:
 
 - Calculating summary statistics, like mean, median and standard deviation
 - Running models like linear regression
