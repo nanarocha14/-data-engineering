@@ -168,3 +168,18 @@ It's designed to deal with issues of color perception.
   - Ostentatious colors or lines
 
 ![Alt text](image-26.png)
+
+
+## Summary
+
+- Histograms: show a distribution
+- Box plots: show lots of distributions at the same time
+- Scatter plots: compare two numeric variables
+- Line plots: show trends over time
+- Bar plots: show counts by category
+- Dot plots: show log scale metrics by category
+- Bar plots: show log scale metrics by category
+- Pair plot: compare many variables
+- Correlation heatmap: show related variables 
+- Parallel correlation plot: find patterns across variables
+- Rose plot: show cyclical distribution
